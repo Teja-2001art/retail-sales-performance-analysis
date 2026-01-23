@@ -82,6 +82,7 @@ Why This Project Matters :
 
 
 Power BI Dashboard Preview
+ 
   Overall Sales Performance Dashboard
    - [Dashboard Overview](screenshots/dashboard_overview.png)
 

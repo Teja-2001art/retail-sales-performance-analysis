@@ -80,9 +80,17 @@ Why This Project Matters :
    - Built for interview discussion, not cosmetic dashboards
    - Scales well for large datasets (~30M+ rows)
 
-Dashboard Preview : 
 
-(Add screenshots here — very important for recruiters)
+Power BI Dashboard Preview
+  Overall Sales Performance Dashboard
+   - [Dashboard Overview](screenshots/dashboard_overview.png)
+
+KPI Summary & Store Productivity
+   - [KPI Summary](screenshots/kpi_summary.png)
+
+Monthly Sales Trend Analysis
+   - [Sales Trend](screenshots/sales_trend.png)
+
 
 👤 Author
 

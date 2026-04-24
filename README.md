@@ -96,5 +96,5 @@ Monthly Sales Trend Analysis
 👤 Author
 
 Teja Tejavath
-Data Analyst | SQL • Power BI • Python
+Aspiring Data Analyst | SQL • Power BI • Python
 📍 Hyderabad, India
